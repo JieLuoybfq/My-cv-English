@@ -30,4 +30,5 @@
  - State Key Laboratory of Fire Science
 ## Research Expeirence
 -  Fire detection, radiative effects of fire emitted particles on the environment
-     - 
+     -  Study on the distinguishing method between fire particles and different interference sources using multi-angle scattering matrix
+     -  
