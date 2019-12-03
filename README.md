@@ -37,9 +37,9 @@
     -  Combined with TEM / SEM images, study how the shape of smoke particles is formed and use computer programs to write algorithms to reproduce the complex shapes of smoke particles
     -  Aiming at the morphological diversity of mixed carbon-containing smoke particles in the atmosphere, a tunable parameter-based smoke particle radiation model was developed to represent various covering structures with limited adjustable parameters, which is beneficial for parameterization of mixed smoke particle radiation characteristics
     -  Study how the non-spherical  morphology of smoke particles affects satellite and ground remote sensing
-    -   Using radiation tranfer calculation software such as Libradtran, combined with atmospheric chemical transport software such as WRF-chem, invetigating the influence of smoke particles on regional radiation
+    -   Using radiation tranfer calculation software such as Libradtran, combined with atmospheric chemistry transport software such as WRF-chem, invetigating the influence of smoke particles on regional radiation
     -  Using WRF-chem to study the effects of forest fire smoke particles on regional climate.
-    -  The non-spherical smoke particle radiation model is coupled offline to the atmospheric chemical transmission model, and the effect of the aspheric effect of smoke particles on regional climate prediction is studied in combination with the radiative transfer model
+    -  The non-spherical smoke particle radiation model is being coupled offline to the atmospheric chemistry transport model, and the effect of the aspheric effect of smoke particles on regional climate prediction is being studied in combination with the radiative transfer model
 
 ## Published Papers
 ### Journal article 
