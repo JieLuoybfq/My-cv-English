@@ -24,4 +24,4 @@
  </div>
 
 
- ## 个人信息
+ ## Personal Information
