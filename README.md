@@ -28,13 +28,19 @@
  - Male, Born in 1994
  - Phd stduent, University Science and Technology of China
  - State Key Laboratory of Fire Science
-## Research Expeirence
+## Research Expeirence and Interests
 -  Fire detection, radiative effects of fire emitted particles on the environment
      -  Study on the distinguishing method between fire particles and different interference sources using multi-angle scattering matrix
      -  The effects of morphology and mixed state on the radiative characteristics of black carbon were studied using the superimposed T matrix and DDA methods.
      -  Parameterization of radiative properties of black carbon using statistical learning methods such as support vector machine (SVM).
      -  Mie, superimposed T-matrix, DDA and other methods were used to analyze the effects of brown carbon on black carbon particle absorption enhancement, and the lens effect was redefined clearly through theoretical analysis. The concept of sunglasses effect was proposed, and the mathematical definition was given.
-    - 
+    -  Combined with TEM / SEM images, study how the shape of smoke particles is formed and use computer programs to write algorithms to reproduce the complex shapes of smoke particles
+    -  Aiming at the morphological diversity of mixed carbon-containing smoke particles in the atmosphere, a tunable parameter-based smoke particle radiation model was developed to represent various covering structures with limited adjustable parameters, which is beneficial for parameterization of mixed smoke particle radiation characteristics
+    -  Study how the non-spherical  morphology of smoke particles affects satellite and ground remote sensing
+    -   Using radiation tranfer calculation software such as Libradtran, combined with atmospheric chemical transport software such as WRF-chem, invetigating the influence of smoke particles on regional radiation
+    -  Using WRF-chem to study the effects of forest fire smoke particles on regional climate.
+    -  The non-spherical smoke particle radiation model is coupled offline to the atmospheric chemical transmission model, and the effect of the aspheric effect of smoke particles on regional climate prediction is studied in combination with the radiative transfer model
+
 ## Published Papers
 ### Journal article 
 - Luo, J., Y. M. Zhang, and Q. X. Zhang (2018a), A model study of aggregates composed of spherical soot monomers with an acentric carbon shell, Journal of Quantitative Spectroscopy and Radiative Transfer, 205, 184-195.]
