@@ -25,3 +25,6 @@
 
 
  ## Personal Information
+ Male, Born in 1994
+ Phd stduent, University Science and Technology of China
+ State Key Laboratory of Fire Science
