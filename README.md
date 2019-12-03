@@ -41,4 +41,7 @@
 - Luo, J., Y. M. Zhang, Q. X. Zhang, F. Wang, J. Liu, and J. J. Wang (2018c), Sensitivity analysis of morphology on radiative properties of soot aerosols, Optics Express, 26(10), A420-A432.
 - Luo, J., Y. Zhang, F. Wang, J. Wang, and Q. Zhang (2018d), Applying machine learning to estimate the optical properties of black carbon fractal aggregates, Journal of Quantitative Spectroscopy and Radiative Transfer, 215, 1-8.
 - Luo, J., Zhang, Y., Wang, F., and Zhang, Q.: Effects of brown coatings on the absorption enhancement of black carbon: a numerical investigation, Atmos. Chem. Phys., 18, 16897-16914, 10.5194/acp-18-16897-2018, 2018.
-- Luo, J., Zhang, Q., Luo, J., Liu, J., Huo, Y., & Zhang, Y. (n.d.). Optical modeling of black carbon with diﬀerent coating materials: The eﬀect of coating confgurations. Journal of Geophysical Research: Atmospheres, n/a(n/a) (已接收， published online)
+- Luo, J., Zhang, Q., Luo, J., Liu, J., Huo, Y., & Zhang, Y. (n.d.). Optical modeling of black carbon with diﬀerent coating materials: The eﬀect of coating confgurations. Journal of Geophysical Research: Atmospheres, n/a(n/a) (Accepted， published online)
+
+### Conference article
+-  Zhang, Q., Liu, J., Luo, J., Wang, F., Wang, J., Zhang, Y. (2020).Characterization of Typical Fire and Non-fire Aerosols by Polarized Light Scattering for Reliable Optical Smoke Detection, Springer Singapore, Singapore, 791-801.
