@@ -29,5 +29,5 @@
  - Phd stduent, University Science and Technology of China
  - State Key Laboratory of Fire Science
 ## Research Expeirence
-- Fire detection, radiative effects of fire emitted particles on the environment
+-  Fire detection, radiative effects of fire emitted particles on the environment
      - 
